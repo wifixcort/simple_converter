@@ -29,7 +29,7 @@ def printrbot_v2_gcode_converter(script):
 
  print "Usage:"
  print "  "+script+" --eto [eto] --fanOutput [fanOutput] --fanMinInValue [fanMinInValue] --fanMaxOutValue [fanMaxOutValue] --minTraverseSpeed [minTraverseSpeed] --file [gcodeFile]"
- print "  "+script+" -eto [eto] -fo [fanOutput] -fmino [fanMinInValue] -f file.gco"
+ print "  "+script+" -eto [eto] -fo [fanOutput] -fmino [fanMinInValue] -f [file.gco]"
  print "Standalone GCode converter"
  print "Thanks to Jeremie.Francois@gmail.com (betterprinter.blogspot.com)"
  #http://www.tridimake.com/2013/02/how-tun-run-python-cura-plugin-without.html
