@@ -9,6 +9,6 @@ If you use Cura is better to add Cura plugin from [Printrbot Repository](https:/
 ```$python simple_converter.py --eto [eto] --fanOutput [fanOutput] --fanMinInValue [fanMinInValue] --fanMaxOutValue [fanMaxOutValue] --minTraverseSpeed [minTraverseSpeed] --file [file.gco] ```
 
 ###Easy way:
-If you gone a use default parameters just do:
+If you gonna use default parameters just do:
 
 ```$python simple_converter.py --file [file.gco] ```
